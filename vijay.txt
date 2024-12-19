@@ -2,3 +2,6 @@
 <h1>Vijay</h1>
 </center>
 <hr>
+<p>
+vijay is quit his acting career to start a political party
+</p>
